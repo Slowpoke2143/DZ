@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\root\Desktop\HOMEWORK\DZ1212\Source.cpp(6,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  DZ1212.vcxproj -> C:\Users\root\Desktop\HOMEWORK\DZ1212\x64\Debug\DZ1212.exe
